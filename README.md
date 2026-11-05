@@ -1,4 +1,4 @@
-# EXP Pulse releases
+﻿# EXP Pulse releases
 
 Installers for EXP Pulse, by EXP Interactives. This repository holds release files only. It contains no source code.
 
@@ -17,4 +17,4 @@ EXP Pulse asks for administrator rights every time it starts. It needs them to r
 
 ## Updates
 
-The app checks this page for a newer version a few seconds after it starts. When an update has been downloaded and checked, a **Restart to update** button appears in Settings. The app never restarts on its own.
+The app checks this page for a newer version a few seconds after it starts. When an update has been downloaded and checked, an **Update ready: restart** button appears in Settings. The app never restarts on its own.
